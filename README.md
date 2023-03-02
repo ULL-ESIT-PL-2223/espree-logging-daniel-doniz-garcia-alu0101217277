@@ -21,7 +21,7 @@ Gracias a GitHub Actions se realizan test con integración continua.
 
 <img width="811" alt="image" src="https://user-images.githubusercontent.com/33846493/222571872-bb39fc1a-ea91-45a9-aabc-209441f7b41a.png">
 
-Se ha creado un paquete que ha sido publicado en npmjs con ámbito mrdoniz.
+Se ha creado un paquete que ha sido publicado en npmjs con ámbito [mrdoniz](https://www.npmjs.com/package/@mrdoniz/espree-logging-daniel-doniz-garcia-alu0101217277).
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/33846493/222572595-2ccdb644-b531-40dd-a4ac-eb8b9fa572c0.png">
 
 
