@@ -114,7 +114,7 @@ Se ha añadido una condición a la entrada del traverse de espree para que tambi
 
 
 ## Reto 2: Añadir el número de línea
-Se cuenta con una variable lineN, que obtiene la propiedad del número de línea de la localización de comienzo del nodo, y se añade al mensaje que se implementa en el código.
+Se ha creado la variable lines, con la cual se obtiene la propiedad del número de línea de la localización de comienzo del nodo. Gracias a esta se añade al mensaje que se implementa en el código.
 ``` js
 function addBeforeCode(node, lines) {
   const name = node.id ? node.id.name : '<anonymous function>';
@@ -127,7 +127,7 @@ function addBeforeCode(node, lines) {
 
 
 ## Tests and Covering
-Se realiza un estudio de cobertura del programa, con el script cov. Se utiliza c8 en vez de nyc porque el segundo causa problemas.
+Se realiza un estudio de cobertura del programa, con el script `npm run cov. Se utiliza c8 porque nyc causa problemas.
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/33846493/222570433-766506a0-f8c5-44b9-ba23-bf6f1816669b.png">
 
 ...
