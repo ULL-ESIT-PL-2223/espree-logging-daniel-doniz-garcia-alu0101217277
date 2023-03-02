@@ -1,5 +1,5 @@
 {
-  "name": "@mrdoniz/espree-logging-daniel-doniz-garcia-alu0101217277",
+  "name": "@ull-esit-pl-2223/espree-logging-daniel-doniz-garcia-alu0101217277",
   "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
   "description": "Adds logs to javascript code",
   "type": "module",
@@ -26,7 +26,7 @@
     "underscore": "^1.12.0",
     "nyc": "^15.1.0"
   },
-  "version": "0.3.0",
+  "version": "0.4.0",
   "devDependencies": {
     "mocha": "^10.2.0",
     "c8": "^7.13.0",
