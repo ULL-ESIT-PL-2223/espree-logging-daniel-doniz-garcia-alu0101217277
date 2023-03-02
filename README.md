@@ -47,3 +47,9 @@ foo(1, 'wut', 3);
 ## Tests and Covering
 
 ...
+
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/33846493/222557556-95e49494-2ade-407f-b624-1d3cbd45dbc0.png">
+
+
+
+<img width="838" alt="image" src="https://user-images.githubusercontent.com/33846493/222557377-f68ebc2e-d201-4ce8-9e9d-83c94e725351.png">
