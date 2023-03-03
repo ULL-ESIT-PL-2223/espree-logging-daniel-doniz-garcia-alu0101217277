@@ -128,6 +128,6 @@ function addBeforeCode(node, lines) {
 
 ## Tests and Covering
 Se realiza un estudio de cobertura del programa, con el script `npm run cov`. Se utiliza c8 porque nyc causa problemas.
+    
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/33846493/222570433-766506a0-f8c5-44b9-ba23-bf6f1816669b.png">
 
-...
